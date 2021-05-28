@@ -1,0 +1,11 @@
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+G:\Coding\С#\Windows_Forms_C#\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
